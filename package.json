@@ -27,11 +27,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/slevinto/project-nodejs.git"
+    "url": "git+https://github.com/MayaZirin/jeweleryProject.git"
   },
   "bugs": {
-    "url": "https://github.com/slevinto/project-nodejs/issues"
+    "url": "https://github.com/MayaZirin/jeweleryProject/issues"
   },
-  "homepage": "https://github.com/slevinto/project-nodejs#readme",
+  "homepage": "https://github.com/MayaZirin/jeweleryProject#readme",
   "description": ""
 }
